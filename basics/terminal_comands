@@ -1,0 +1,17 @@
+nano - put do faila - otkrytie faia s pomochu textovogo redactora nano 
+
+mv put do faila put do dirictory pernos dirictory faila v ucazanuy dirictorii
+ 
+mv put do faila novoe nazvanie pereimenovane faila dirictory
+
+echo cacoito text vyvod ucazannogo texta v consol 
+
+echo some_text > new faile - zapis texta v faile 
+
+echo appendet_text >> same_faile - dozapis texta v faile
+
+rm -r  - recursivno (udalit soderjimoe dirictorii i ee samu)
+
+rm -f  - prinuditelmoe udalenie
+rm -rf prinuditelno+recursivno
+
